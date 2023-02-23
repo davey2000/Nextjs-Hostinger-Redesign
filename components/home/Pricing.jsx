@@ -90,7 +90,7 @@ function Pricing() {
                 <Img src="/assets/circle.svg" alt="" />
               </div>
               <p className="font-bold">Premium</p>
-              <h2 className="font-black">₹ 149.00 /mo </h2>
+              <h2 className="font-black">$ 149.00 /mo </h2>
               <p>Best for small buisness.</p>
             </div>
 
@@ -117,7 +117,7 @@ function Pricing() {
           <div className="flex-1 border-2 border-gray-200 md:hover:border-violet-700 duration-200">
             <div className="p-6 pb-0">
               <p className="font-bold">Buisness</p>
-              <h2 className="font-black">₹ 249.00 /mo </h2>
+              <h2 className="font-black">$ 249.00 /mo </h2>
               <p>Best for big buisness.</p>
             </div>
 
