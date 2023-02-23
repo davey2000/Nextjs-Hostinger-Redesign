@@ -37,7 +37,7 @@ function Landing() {
             >
               Savings to Set{" "}
               <span className="xl:block">Your Website in Motion</span> at{" "}
-              <span className="bg-violet-100">₹149.00/mo</span>.
+              <span className="bg-violet-100">$149.00/mo</span>.
             </h1>
             <p className="max-w-md mb-4">
               We are an employee-owned Web hosting provider and Internet domain
