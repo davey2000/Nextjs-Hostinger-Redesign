@@ -75,7 +75,7 @@ function SearchDomain() {
           </form>
 
           <p>
-            .com starts from ₹299.00/mo.{" "}
+            .com starts from $299.00/mo.{" "}
             <Link href="/">
               <a className="hover:underline">View price list.</a>
             </Link>
